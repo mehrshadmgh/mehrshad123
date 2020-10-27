@@ -12,6 +12,8 @@ body {
   line-height: 2;
   color: #5e493a;
   background-color: honeydew;
+  background-image: url(1.jpg);
+  background-size: cover;
 }
 body.fh5co-overflow {
   overflow-x: auto;
